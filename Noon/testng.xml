@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Noon Suite">
+    <test name="Tests">
+        <classes>
+            <class name="FirstScenario"/>
+            <class name="SecondScenario"/>
+            <class name="ThirdScenario"/>
+            <class name="FourthScenario"/>
+        </classes>
+    </test>
+</suite>
